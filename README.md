@@ -22,10 +22,10 @@ A Java-based **console application** to manage hotel room reservations. It suppo
 ## 📂 Project Structure
 
 HotelReservationSystem/
-├── src/
-│ └── HotelReservationSystem.java
-├── out/
-├── .iml
+├── src/ <br>
+│ └── HotelReservationSystem.java<br>
+├── out/<br>
+├── .iml<br>
 ├── README.md
 
 ## 📸 Sample Output
