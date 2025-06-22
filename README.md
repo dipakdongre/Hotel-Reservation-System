@@ -36,9 +36,9 @@ HOTEL MANAGEMENT SYSTEM
 3. Get Room Number
 4. Update Reservations
 5. Delete Reservations
-6. Exit
-   <br>
-Choose an option: 1
+6. Exit<br>
+
+Choose an option: 1<br>
 Enter guest name: dipak
 
 ##  Author
