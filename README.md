@@ -37,6 +37,7 @@ HOTEL MANAGEMENT SYSTEM
 4. Update Reservations
 5. Delete Reservations
 6. Exit
+   <br>
 Choose an option: 1
 Enter guest name: dipak
 
